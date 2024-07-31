@@ -1,0 +1,16 @@
+.reservationList {
+  padding: 0;
+}
+
+.reservationListHeading {
+  font-size: 1rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .reservationListItem {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    column-gap: 3rem;
+    align-items: center;
+  }
+}

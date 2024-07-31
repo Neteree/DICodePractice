@@ -1,0 +1,11 @@
+.reservation {
+  margin-bottom: 3rem;
+  padding: 0;
+  padding-bottom: 2rem;
+  border-bottom: 1px dashed #ccc;
+  list-style-type: none;
+}
+
+.reservationDate {
+  color: gray;
+}
