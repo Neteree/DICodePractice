@@ -1,0 +1,25 @@
+{
+  "name": "02-ex-data-validation-with-joi",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "jest --verbose",
+    "test:watch": "jest --watch",
+    "lint:js": "eslint .",
+    "prettier:check": "prettier --check '**/*{.css,.html,.js}'"
+  },
+  "devDependencies": {
+    "eslint": "^8.0.0",
+    "eslint-config-prettier": "^8.3.0",
+    "eslint-config-standard": "^16.0.3",
+    "eslint-plugin-import": "^2.24.2",
+    "eslint-plugin-jest": "^24.6.0",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^5.1.0",
+    "jest": "^27.2.5",
+    "prettier": "^2.4.1"
+  },
+  "dependencies": {
+    "joi": "^17.9.2"
+  }
+}
