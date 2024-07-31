@@ -1,0 +1,20 @@
+.restaurant {
+  margin-bottom: 1.5rem;
+}
+
+.restaurantName {
+  margin-top: 0.75rem;
+  margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .restaurant {
+    display: grid;
+    grid-template-columns: 6fr 7fr;
+    column-gap: 1.5rem;
+  }
+
+  .restaurantName {
+    text-align: start;
+  }
+}

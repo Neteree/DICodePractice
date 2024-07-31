@@ -1,0 +1,27 @@
+.createReservationName {
+  margin-bottom: 1rem;
+}
+
+.createReservationFormGroup {
+  display: grid;
+  margin-bottom: 1rem;
+}
+
+.createReservationInput {
+  margin-top: 0.125rem;
+  padding: 0.5rem;
+  border: 0.0625rem solid lightgray;
+}
+
+.react-datepicker__input-container {
+  display: grid;
+}
+
+.createReservationButton {
+  background-color: rgb(221, 57, 57);
+  color: white;
+  margin-top: 1rem;
+  padding: 0.75rem 1.5rem;
+  border-radius: 0.25rem;
+  border: none;
+}

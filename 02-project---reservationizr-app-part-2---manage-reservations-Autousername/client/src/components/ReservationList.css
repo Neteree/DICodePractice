@@ -1,0 +1,34 @@
+.reservationList {
+  list-style-type: none;
+}
+
+.reservationListItem {
+  border-bottom: 0.125rem dotted lightgrey;
+  padding-bottom: 2rem;
+  margin-bottom: 2rem;
+}
+
+.reservationListItemName {
+  font-size: 1rem;
+}
+
+.reservationListItemParagraph {
+  color: gray;
+}
+
+.reservationListItemLink {
+  color: red;
+  display: block;
+}
+
+.reservationListEmptyParagraph {
+  margin-bottom: 1rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .reservationListItem {
+    display: grid;
+    grid-template-columns: repeat(3, auto);
+    justify-content: space-between;
+  }
+}

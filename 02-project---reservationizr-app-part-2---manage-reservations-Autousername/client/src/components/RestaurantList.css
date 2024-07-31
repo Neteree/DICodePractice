@@ -1,0 +1,37 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.restaurantList {
+  list-style: none;
+  display: grid;
+  row-gap: 3rem;
+}
+
+.restaurantListItem {
+  padding: 1rem;
+  box-shadow: 0.25rem 0.25rem 0.5rem rgba(0, 0, 0, 0.25);
+}
+
+.reserveNow {
+  display: inline-block;
+  background-color: rgb(221, 57, 57);
+  color: white;
+  margin-top: 2rem;
+  padding: 0.5rem 1rem;
+  border-radius: 0.25rem;
+  text-decoration: none;
+}
+
+.restaurantListItemName {
+  margin-bottom: 0.5rem;
+}
+
+@media screen and (min-width: 48rem) {
+  .restaurantListItem {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 2rem;
+  }
+}
