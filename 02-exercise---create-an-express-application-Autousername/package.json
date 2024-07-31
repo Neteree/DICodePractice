@@ -1,0 +1,23 @@
+{
+  "name": "02-exercise---create-an-express-application-autousername-2",
+  "version": "1.0.0",
+  "description": "[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-718a45dd9cf7e7f842a935f5ebbe5719a5e09af4491e668f4dbf3b35d5cca122.svg)](https://classroom.github.com/online_ide?assignment_repo_id=11084248&assignment_repo_type=AssignmentRepo)\r # 02 Exercise - Create an Express application",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Developers-Institute-Classrooms/02-exercise---create-an-express-application-Autousername.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Developers-Institute-Classrooms/02-exercise---create-an-express-application-Autousername/issues"
+  },
+  "homepage": "https://github.com/Developers-Institute-Classrooms/02-exercise---create-an-express-application-Autousername#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
