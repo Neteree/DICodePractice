@@ -1,0 +1,10 @@
+{
+  "name": "03-tutorial-pagination",
+  "author": "Developers Institute",
+  "version": "1.0.0",
+  "scripts": {
+    "app": "cd ramen-app && npm run start",
+    "server": "cd ramen-server && npm run start",
+    "postinstall": "(cd ramen-server && npm install); (cd ramen-app && npm install);"
+  }
+}
