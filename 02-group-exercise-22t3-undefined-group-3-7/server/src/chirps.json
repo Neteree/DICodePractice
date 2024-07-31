@@ -1,0 +1,62 @@
+[
+  {
+    "_id": { "$oid": "61480db44ab0cf7175467757" },
+    "username": "RapidAPI",
+    "uniqueName": "@Rapid_API",
+    "createdDate": { "$date": "2022-02-14T16:54:40.000Z" },
+    "text": [
+      "Let’s break down the process of building a REST API from scratch using Node.js and Express.",
+      "&nbsp;",
+      "Thread (emoji) (emoji)"
+    ],
+    "avatar": "path.ex",
+    "replies": 24,
+    "rechirps": 420,
+    "likes": 1300
+  },
+  {
+    "_id": { "$oid": "645d80e95bba1f07ec6533f6" },
+    "username": "Joe Chang",
+    "uniqueName": "@joe_theCoder",
+    "createdDate": { "$date": "2022-02-14T16:54:40.000Z" },
+    "text": [
+      "Day51 #100DaysOfCode Finished the first node project, and decide to make it bigger and more presentable after gaining more knowledge in React!!"
+    ],
+    "avatar": "path.ex",
+    "replies": 3,
+    "rechirps": 6,
+    "likes": 7
+  },
+  {
+    "_id": { "$oid": "645d82976ccabe6744b8c761" },
+    "username": "Joe Chang",
+    "uniqueName": "@joe_theCoder",
+    "createdDate": { "$date": "2022-02-14T16:54:40.000Z" },
+    "text": [
+      "Day 54 of #100DaysOfCode practice with a simple page with React after a long & busy day.",
+      "Also, thanks @CodeOnLoop, for being such a wise and supportive friend on this journey!! The dev community are the best!!"
+    ],
+    "avatar": "path.ex",
+    "replies": 3,
+    "rechirps": 6,
+    "likes": 15
+  },
+  {
+    "_id": { "$oid": "645d82789395efc501ae0e54" },
+    "username": "Manpreet Singh",
+    "uniqueName": "@ManpreetCoderI",
+    "createdDate": { "$date": "2022-02-14T16:54:40.000Z" },
+    "text": [
+      "How to specify attributes in JSX?",
+      "-Using curly braces to embed a javascript expression is an attribute",
+      "-Don't put quotes around curly braces when embedding a javascript expression in an attribute",
+      "-Define attributes with camelcase naming convention",
+      "#javascript #React",
+      "(image attached)"
+    ],
+    "avatar": "path.ex",
+    "replies": 0,
+    "rechirps": 3,
+    "likes": 3
+  }
+]
